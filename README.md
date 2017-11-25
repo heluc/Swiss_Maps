@@ -7,7 +7,7 @@ The expected result should look like [this](http://lvonlanthen.github.io/data-ma
 
 With code available [here](https://github.com/lvonlanthen/data-map-d3/).
 
-More information can be found in others sources such as:
+More information can be found in others sources such as :
 
 * [Répertoire officiel des localités avec le code postal et le périmètre](https://opendata.swiss/fr/dataset/amtliches-ortschaftenverzeichnis-mit-postleitzahl-und-perimeter1/)
 
