@@ -13,4 +13,4 @@ More information can be found in others sources such as:
 
 * [Directory of towns and cities](https://www.cadastre.ch/en/services/service/plz.html)
 
-* List of postcodes of Switzerland aka [PLZ-Verzeichnis] (https://swisspost.opendatasoft.com/explore/dataset/plz-verzeichnis/information/?location=10,46.62398,6.92276) via Open Data Portal of Swiss Post
+* List of postcodes of Switzerland aka [PLZ-Verzeichnis](https://swisspost.opendatasoft.com/explore/dataset/plz-verzeichnis/information/?location=10,46.62398,6.92276) via Open Data Portal of Swiss Post
