@@ -1,4 +1,4 @@
-# Swiss_Maps
+# Swiss Maps
 ## a.k.a "a first attempt to do something"
 
 This is a project based on a [tutorial](http://data-map-d3.readthedocs.io/en/latest/index.html) to create a simple data map using [D3.js](https://d3js.org) JavaScript library. 
